@@ -1,7 +1,7 @@
 # 🗡️ KingSlayer (弑君者)
 ![C++](https://img.shields.io/badge/C++-17%2B-blue.svg) ![Qt](https://img.shields.io/badge/Qt-6.0%2B-41CD52.svg) ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 基于 C++ 和 Qt 6 框架开发的硬核单机桌面卡牌对战游戏。灵感来源于著名高难度桌游《弑君者 (Regicide)》。玩家需要通过策略性地打出手牌，利用四大花色的独特机制与连击效果，单挑并击败 12 位强大的皇家 Boss！
-![Uploading image.png…]()
+<img width="1540" height="1199" alt="image" src="https://github.com/user-attachments/assets/94cbc69f-4a3e-4b54-8aa0-020f5abbbfc4" />
 
 ---
 ## ✨ 核心特性 (Features)
@@ -16,7 +16,8 @@
 *   **🏗️ 标准 MVC 架构**：将 `GameManager` (状态机)、`PlayValidator` (规则校验) 与 UI 视图彻底解耦，代码结构清晰，极易扩展与维护。
 ---
 ## 🎮 玩法图解
-<img width="1540" height="1199" alt="image" src="https://github.com/user-attachments/assets/d5826a41-eb96-4729-9745-5bd302d87271" />
+<img width="1540" height="1199" alt="image" src="https://github.com/user-attachments/assets/51cf0de6-04b8-4409-90b9-31aaa1ffa6f7" />
+
 **极简战斗循环：**
 1.  **出牌阶段**：打出单张或符合规则的组合牌（除 A 外总点数不得超过 10）。
 2.  **结算阶段**：系统结算伤害，触发花色特效，扣除 Boss 血量。
@@ -45,6 +46,6 @@
 *   **`cardwidget.h/cpp`**：自定义的卡牌 UI 控件，重写了原生鼠标事件，实现卡牌悬停上浮与点击选中效果。
 ---
 ## 👨‍💻 开发者彩蛋 (Debug Mode)
-> 在主界面中，如果在不选中任何卡牌的情况下**快速连续点击 5 次“出牌”按钮**，可直接触发开发者秒杀外挂，瞬间清空当前 Boss 血量！ps：立绘是用gpt生成的
+> 在主界面中，如果在不选中任何卡牌的情况下**快速连续点击 5 次“出牌”按钮**，可直接触发开发者秒杀外挂，瞬间清空当前 Boss 血量！ps：立绘是用gpt生成的。
 ---
 **Enjoy the game!** 如果你觉得这个练手项目还不错，欢迎右上角点个 ⭐ Star 支持一下！
