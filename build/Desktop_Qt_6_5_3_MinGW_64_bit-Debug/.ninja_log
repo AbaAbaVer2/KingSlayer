@@ -1,0 +1,25 @@
+# ninja log v6
+12	691	8024375456908119	KingSlayer_autogen/timestamp	2e991ef4e80d5ad6
+12	691	8024375456908119	D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/KingSlayer_autogen/mocs_compilation.cpp	2e991ef4e80d5ad6
+12	691	8024375456908119	KingSlayer_autogen/mocs_compilation.cpp	2e991ef4e80d5ad6
+879	2573	8024374554939067	CMakeFiles/KingSlayer.dir/gamemanager.cpp.obj	a77434998828dc0c
+267	1112	8024340098703730	CMakeFiles/KingSlayer.dir/card.cpp.obj	be5d6e8585a69bdb
+12	691	8024375456908119	D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/KingSlayer_autogen/timestamp	2e991ef4e80d5ad6
+692	2778	8024375458250863	CMakeFiles/KingSlayer.dir/KingSlayer_autogen/mocs_compilation.cpp.obj	43d3c8802d0cc671
+706	2452	8024375458390722	CMakeFiles/KingSlayer.dir/main.cpp.obj	fc73aaaf2dcb5a2e
+909	2552	8024374555232886	CMakeFiles/KingSlayer.dir/cardwidget.cpp.obj	ad3c320d48422dbb
+723	2968	8024375458554885	CMakeFiles/KingSlayer.dir/mainwindow.cpp.obj	e983b9686e76db27
+2968	3891	8024375481003160	KingSlayer.exe	219051354625a753
+245	888	8024310902068251	KingSlayer_autogen/EWIEGA46WW/qrc_resources.cpp	586d2e68a1c6005a
+245	888	8024310902068251	D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/KingSlayer_autogen/EWIEGA46WW/qrc_resources.cpp	586d2e68a1c6005a
+904	19717	8024310902372744	CMakeFiles/KingSlayer.dir/KingSlayer_autogen/EWIEGA46WW/qrc_resources.cpp.obj	28abd0e05c2b1bc4
+727	1991	8024337486737092	CMakeFiles/KingSlayer.dir/playvalidator.cpp.obj	3830d00e2a8c0129
+11	287	8024638204901775	KingSlayer_autogen/timestamp	2e991ef4e80d5ad6
+11	287	8024638204901775	KingSlayer_autogen/mocs_compilation.cpp	2e991ef4e80d5ad6
+11	287	8024638204901775	D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/KingSlayer_autogen/timestamp	2e991ef4e80d5ad6
+11	287	8024638204901775	D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/KingSlayer_autogen/mocs_compilation.cpp	2e991ef4e80d5ad6
+288	1161	8024638216212412	KingSlayer_autogen/EWIEGA46WW/qrc_resources.cpp	586d2e68a1c6005a
+288	1161	8024638216212412	D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/KingSlayer_autogen/EWIEGA46WW/qrc_resources.cpp	586d2e68a1c6005a
+1161	3914	8024638216395115	CMakeFiles/KingSlayer.dir/mainwindow.cpp.obj	e983b9686e76db27
+1176	22160	8024638216543635	CMakeFiles/KingSlayer.dir/KingSlayer_autogen/EWIEGA46WW/qrc_resources.cpp.obj	28abd0e05c2b1bc4
+22160	23413	8024638426395439	KingSlayer.exe	219051354625a753

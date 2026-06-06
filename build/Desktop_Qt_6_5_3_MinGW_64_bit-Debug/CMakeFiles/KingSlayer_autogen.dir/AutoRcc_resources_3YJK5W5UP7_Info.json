@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/KingSlayer_autogen",
+	"CMAKE_BINARY_DIR" : "D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/1STUDY1/Codes/KingSlayer",
+	"CMAKE_SOURCE_DIR" : "D:/1STUDY1/Codes/KingSlayer",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/KingSlayer_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/KingSlayer_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "D:/1STUDY1/Qt/qt/6.5.3/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "D:/1STUDY1/Codes/KingSlayer/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/CMakeFiles/KingSlayer_autogen.dir/AutoRcc_resources_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "D:/1STUDY1/Codes/KingSlayer/resources/resources.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
